@@ -4,7 +4,7 @@ import os
 import urllib.request
 
 # 環境変数から推論 API の URL を取得
-PREDICT_API_URL = "https://78c0-35-240-182-101.ngrok-free.app/predict"
+PREDICT_API_URL = "https://5cc4-34-105-22-214.ngrok-free.app/predict"
 
 def lambda_handler(event, context):
     try:
